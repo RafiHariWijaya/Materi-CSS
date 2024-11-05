@@ -1,0 +1,27 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+    font-weight: normal;
+    text-align: center;
+    background-color: lightgray;
+    background-image: url(https://www.pngplay.com/wp-content/uploads/15/Autumn-Tree-Transparent-File.png);
+    background-repeat: no-repeat;
+    background-size: 400px;
+    background-position: top right;
+    
+}
+
+h1 {
+    font-size: 70px;
+    font-variant: small-caps;
+    font-style: oblique;
+    color: rgb(75, 29, 29);
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+
+p {
+    font-size: 15px;
+    line-height: 30px;
+    font-weight: 600;
+    word-spacing: 5px;
+}
